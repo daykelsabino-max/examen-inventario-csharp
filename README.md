@@ -23,3 +23,9 @@ El sistema muestra la información de los productos y calcula automáticamente e
 
 ## .............................
 
+Universidad: Universidad Central del Este (UCE)
+Asignatura: Programación Básica
+Profesor: Gamalier Reyes
+Estudiante: Daikel Sabino
+Matrícula: 2022-4384
+Fecha: 13/03/26
