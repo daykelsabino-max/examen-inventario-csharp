@@ -21,7 +21,7 @@ El sistema muestra la información de los productos y calcula automáticamente e
 
 ![Escenario 2](screen3.png)
 
-## .............................
+## _______________________________________________
 
 - Universidad: Universidad Central del Este (UCE)
 - Asignatura: Programación Básica
