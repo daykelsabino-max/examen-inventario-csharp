@@ -1,5 +1,5 @@
 ## ...............
-Universidad: Universidad Central del Este (UCE)
+*Universidad: Universidad Central del Este (UCE)
 Asignatura: Programación Básica
 Profesor: Gamalier Reyes
 Estudiante: Daikel Sabino
